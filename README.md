@@ -1,4 +1,5 @@
 # PromptEngAssistant
 It helps to craft the effective Prompt
 
-App Link: https://promptengassistant.streamlit.app/
+## 🚀 Live Demo  
+👉 **[SimpleCalc Web App](https://promptengassistant.streamlit.app/)**
